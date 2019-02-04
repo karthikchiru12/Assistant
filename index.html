@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="css/theme.css">
+        <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>Assistant</title>
+      </head>
+<body>
+<div id="chat">
+	<div>USER: <span id="user"></span></div>
+	<div>SYSTEM: <span id="chatbot"></span></div>
+	<div><input id="input" type="text" placeholder="say anything..." autocomplete="off" /></div>
+</div>
+<div id="my-botui-app">
+    <bot-ui></bot-ui>
+  </div>
+<script src="js/reply.js"></script>
+<script src="https://cdn.jsdelivr.net/vue/latest/vue.min.js"></script>
+<script src="./botui/build/botui.min.js"></script>
+</body>
+</html>
