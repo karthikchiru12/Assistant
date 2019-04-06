@@ -24,7 +24,7 @@ var reply = [
     ["I created myself...(atleast thats what i think)"],
     ["what do you mean by you ?... you is you saying that you is you but what you think that is you is not you the you think"],
     ["just kidding...!"],
-	["Just ask suraj, he knows everything"],
+	["Just ask suraj, he knows everything","just ask burhan"],
 	["In a pile of metal bricks, the things you call hard disks"],
 	["stay in memory as long as you use me and go to sleep in hard disk when you close this window"],
 	["dumb people like you"],
